@@ -1,2 +1,2 @@
-# website Bank Sampah Torang Bisa
+# Website Bank Sampah Torang Bisa
 PROJECT WEBSITE PEMROGRAMAN WEB 2
